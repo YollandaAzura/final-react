@@ -12,7 +12,7 @@ import {
     Box,
   } from '@chakra-ui/react'
 import NavBar from "../components/Navbar";
-import Footer from "../components/Footer";
+// import Footer from "../components/Footer";
 
 const Student = () => {
   const [students, setStudents] = useState([]);

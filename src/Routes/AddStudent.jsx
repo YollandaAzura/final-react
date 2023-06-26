@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Button, Input } from "@chakra-ui/react";
-import Footer from "../components/Footer";
+// import Footer from "../components/Footer";
 
 const AddStudent = () => {
   const navigate = useNavigate();

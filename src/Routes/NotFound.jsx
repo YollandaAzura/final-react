@@ -1,6 +1,6 @@
-import React, { useEffect } from 'react';
+//import React, { useEffect } from 'react';
 //import { useNavigate } from 'react-router-dom';
-import { Center, Link } from '@chakra-ui/react';
+import { Link } from '@chakra-ui/react';
 import { Box, Button } from '@chakra-ui/react';
 
 const NotFound = () => {

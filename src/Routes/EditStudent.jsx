@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { Button, Input, Box } from "@chakra-ui/react";
-import Footer from "../components/Footer";
+// import Footer from "../components/Footer";
 
 const EditStudent = () => {
   const history = useNavigate();
